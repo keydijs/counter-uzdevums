@@ -1,3 +1,3 @@
 # counter-uzdevums
 
-Oh shit
+Neinstalē mani!
