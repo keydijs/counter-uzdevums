@@ -1,0 +1,36 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.center {
+    margin-top: 30vh;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#in {
+    background-color: green;
+    padding: 10px;
+    border: none;
+}
+
+#de {
+    background-color: red;
+    padding: 10px;
+    border: none;
+}
+
+#re {
+    padding: 10px;
+    background-color: gainsboro;
+    border: none;
+}
+
+.center button:active {
+    outline: 1px black solid;
+}
+
+#skaitlis {
+    font-size: 40px;
+}
